@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Sugar &amp; Tier">
+  <circle cx="32" cy="32" r="32" fill="#f8f1e4"/>
+  <g fill="none" stroke="#a6873f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 13v6"/>
+    <path d="M32 16c3-3 6-2.6 6-2.6S37.4 18 32 16z"/>
+    <rect x="21" y="22" width="22" height="9" rx="2"/>
+    <rect x="17" y="31" width="30" height="11" rx="2"/>
+    <path d="M14 46h36"/>
+    <path d="M32 42v4"/>
+    <path d="M24 51h16"/>
+  </g>
+</svg>

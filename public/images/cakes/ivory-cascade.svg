@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500" role="img" aria-label="Ivory Cascade — placeholder illustration">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fdf9f1"/>
+      <stop offset="100%" stop-color="#f1e6d3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#ground)"/>
+  <rect x="40" y="40" width="1120" height="1420" fill="none" stroke="#d8bd85" stroke-width="3"/>
+  <g>
+    <rect x="290" y="880" width="620" height="200" rx="14" fill="#fdf9f1" stroke="#a6873f" stroke-width="5"/>
+    <circle cx="310" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="350" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="390" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="430" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="470" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="510" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="550" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="590" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="630" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="670" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="710" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="750" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="790" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="830" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="870" cy="896" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <rect x="365" y="700" width="470" height="180" rx="14" fill="#fdf9f1" stroke="#a6873f" stroke-width="5"/>
+    <circle cx="385" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="425" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="465" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="505" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="545" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="585" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="625" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="665" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="705" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="745" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="785" cy="716" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <rect x="440" y="540" width="320" height="160" rx="14" fill="#fdf9f1" stroke="#a6873f" stroke-width="5"/>
+    <circle cx="460" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="500" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="540" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="580" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="620" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="660" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="700" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <circle cx="740" cy="556" r="9" fill="none" stroke="#e8c5c0" stroke-width="4"/>
+    <path d="M420 1080 H780 M600 1080 V1180 M470 1200 H730" fill="none" stroke="#a6873f" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="520" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(0 520 500)"/><ellipse cx="520" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(60 520 500)"/><ellipse cx="520" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(120 520 500)"/><ellipse cx="520" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(180 520 500)"/><ellipse cx="520" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(240 520 500)"/><ellipse cx="520" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(300 520 500)"/><circle cx="520" cy="500" r="8" fill="#a6873f"/>
+    <ellipse cx="600" cy="448" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(0 600 470)"/><ellipse cx="600" cy="448" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(60 600 470)"/><ellipse cx="600" cy="448" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(120 600 470)"/><ellipse cx="600" cy="448" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(180 600 470)"/><ellipse cx="600" cy="448" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(240 600 470)"/><ellipse cx="600" cy="448" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(300 600 470)"/><circle cx="600" cy="470" r="8" fill="#a6873f"/>
+    <ellipse cx="680" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(0 680 500)"/><ellipse cx="680" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(60 680 500)"/><ellipse cx="680" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(120 680 500)"/><ellipse cx="680" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(180 680 500)"/><ellipse cx="680" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(240 680 500)"/><ellipse cx="680" cy="478" rx="12" ry="24" fill="none" stroke="#e8c5c0" stroke-width="4" transform="rotate(300 680 500)"/><circle cx="680" cy="500" r="8" fill="#a6873f"/>
+  </g>
+  <text x="600" y="1330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#3a2e23">Ivory Cascade</text>
+  <text x="600" y="1390" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="26" letter-spacing="6" fill="#7d6b59">SUGAR &amp; TIER</text>
+</svg>

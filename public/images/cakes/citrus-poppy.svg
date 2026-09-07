@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500" role="img" aria-label="Citrus &amp; Poppy — placeholder illustration">
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fdf9f1"/>
+      <stop offset="100%" stop-color="#f1e6d3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#ground)"/>
+  <rect x="40" y="40" width="1120" height="1420" fill="none" stroke="#d8bd85" stroke-width="3"/>
+  <g>
+    <rect x="290" y="780" width="620" height="300" rx="14" fill="#fdf9f1" stroke="#a6873f" stroke-width="5"/>
+    <circle cx="310" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="350" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="390" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="430" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="470" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="510" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="550" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="590" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="630" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="670" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="710" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="750" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="790" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="830" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <circle cx="870" cy="796" r="9" fill="none" stroke="#d8bd85" stroke-width="4"/>
+    <path d="M420 1080 H780 M600 1080 V1180 M470 1200 H730" fill="none" stroke="#a6873f" stroke-width="6" stroke-linecap="round"/>
+    <path d="M420 780 l45 -70 l45 70 l45 -85 l45 85 l45 -70 l45 70" fill="none" stroke="#a6873f" stroke-width="6" stroke-linejoin="round"/>
+  </g>
+  <text x="600" y="1330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#3a2e23">Citrus &amp; Poppy</text>
+  <text x="600" y="1390" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="26" letter-spacing="6" fill="#7d6b59">SUGAR &amp; TIER</text>
+</svg>
