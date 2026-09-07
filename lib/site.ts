@@ -37,10 +37,12 @@ export const site = {
   serviceArea: "Colombo and the surrounding suburbs, with delivery islandwide by arrangement",
   currency: "LKR",
   founded: "2026",
+  /** The studio is a one-person operation run by its founder. */
+  founder: "Dr. Sanduni Siriwardena",
   /** PLACEHOLDER — swap for the studio's real mailbox before launch. */
   email: "hello@sugarandtier.lk",
-  /** PLACEHOLDER — international format, digits only, no leading `+`. */
-  whatsapp: "94770000000",
+  /** International format, digits only, no leading `+`. */
+  whatsapp: "94714338661",
   instagram: {
     href: "https://www.instagram.com/sugar.tier/",
     label: "Instagram",

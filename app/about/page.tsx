@@ -24,11 +24,12 @@ export default function AboutPage() {
               as="h1"
               align="left"
               eyebrow="About"
-              title="Just a girl who loves to bake & create"
-              description={`${site.name} is a small-batch cake studio in ${site.city}. It started the way these things usually do — a birthday cake for a friend, then a cake for their friend, then a diary that needed managing.`}
+              title={site.founder}
+              description={`${site.name} is run by Dr. Sanduni Siriwardena — a doctor by profession who bakes cakes purely for the love of it. It started the way these things usually do: a birthday cake for a friend, then a cake for their friend, then a diary that needed managing.`}
             />
             <p className="max-w-xl leading-relaxed text-pretty text-cocoa-600">
-              The studio takes a limited number of orders each week on purpose. It is the only way
+              Baking stays a passion project, taken on around a full-time medical career — which is
+              why the studio only accepts a limited number of orders each week. It is the only way
               to bake everything fresh, finish it by hand and still answer messages the same day. If
               a date is gone, it is genuinely gone — and we will say so rather than stretch.
             </p>

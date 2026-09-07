@@ -20,6 +20,7 @@ export function bakeryJsonLd(): Record<string, unknown> {
     url: site.url,
     email: site.email,
     telephone: `+${site.whatsapp}`,
+    founder: { "@type": "Person", name: site.founder },
     priceRange: "$$",
     currenciesAccepted: site.currency,
     address: {

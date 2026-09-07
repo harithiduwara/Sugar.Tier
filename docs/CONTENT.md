@@ -10,12 +10,14 @@ Anything you commit to `main` is live in about two minutes.
 
 **File:** `lib/site.ts`
 
-At the top you will find the email address, the WhatsApp number and the Instagram link. Two are
-marked `PLACEHOLDER` and must be replaced before the site is shared:
+At the top you will find the founder's name, the email address, the WhatsApp number and the
+Instagram link. The email is still marked `PLACEHOLDER` and must be replaced before the site is
+shared:
 
 ```ts
+founder: "Dr. Sanduni Siriwardena",
 email: "hello@sugarandtier.lk",   // PLACEHOLDER
-whatsapp: "94770000000",          // PLACEHOLDER — no "+", no spaces
+whatsapp: "94714338661",          // no "+", no spaces
 ```
 
 The WhatsApp number is written the way `wa.me` wants it: country code first, no plus sign, no
